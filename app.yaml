@@ -1,0 +1,17 @@
+application: r8168dl
+version: 1
+runtime: php
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /
+  script: main.php
+
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+
+- url: /files
+  static_dir: files
+
