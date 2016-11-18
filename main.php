@@ -32,8 +32,8 @@
 		These files are downloaded from the <a href="http://www.realtek.com.tw/downloads/downloadsView.aspx?Langid=1&amp;PNid=13&amp;PFid=5&amp;Level=5&amp;Conn=4&amp;DownTypeID=3&amp;GetDown=false">Realtek download page</a>
 		<h2>Downloads</h2>
 		<ul class="list-unstyled">
-			<li><a href="files/r8168-8.041.01.tar.bz2" onclick="ga('send', 'event', this.href, 'click');">r8168-8.041.01.tar.bz2 <span class="label label-primary">Latest</span></a></li>
-			<li><a href="files/r8168-8.040.00.tar.bz2" onclick="ga('send', 'event', this.href, 'click');">r8168-8.040.00.tar.bz2</a></li>
+			<li><a href="files/r8168-8.043.02.tar.bz2" onclick="ga('send', 'event', this.href, 'click');">r8168-8.043.02.tar.bz2 <span class="label label-primary">Latest</span></a></li>
+			<li><a href="files/r8168-8.042.00.tar.bz2" onclick="ga('send', 'event', this.href, 'click');">r8168-8.042.00.tar.bz2</a></li>
 		</ul>
 		<p>
 			These download links can be used from within a build script.<br />
