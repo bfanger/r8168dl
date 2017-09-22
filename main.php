@@ -29,15 +29,16 @@
 		<br />
 
 
-		These files are downloaded from the <a href="http://www.realtek.com.tw/downloads/downloadsView.aspx?Langid=1&amp;PNid=13&amp;PFid=5&amp;Level=5&amp;Conn=4&amp;DownTypeID=3&amp;GetDown=false">Realtek download page</a>
+		These files are downloaded from the <a href="http://www.realtek.com.tw/downloads/downloadsView.aspx?Langid=1&amp;PNid=13&amp;PFid=5&amp;Level=5&amp;Conn=4&amp;DownTypeID=3&amp;GetDown=false">Realtek website</a>
 		<h2>Downloads</h2>
 		<ul class="list-unstyled">
-			<li><a href="files/r8168-8.043.02.tar.bz2" onclick="ga('send', 'event', this.href, 'click');">r8168-8.043.02.tar.bz2 <span class="label label-primary">Latest</span></a></li>
-			<li><a href="files/r8168-8.042.00.tar.bz2" onclick="ga('send', 'event', this.href, 'click');">r8168-8.042.00.tar.bz2</a></li>
+			<li><a href="http://www.realtek.com.tw/downloads/downloadsView.aspx?Langid=1&amp;PNid=13&amp;PFid=5&amp;Level=5&amp;Conn=4&amp;DownTypeID=3&amp;GetDown=false#2">Official download page <span class="label label-primary">Latest</span></a></li>
+			<li><a href="files/r8168-8.045.08.tar.bz2" onclick="ga('send', 'event', this.href, 'click');">r8168-8.045.08.tar.bz2</a></li>
+			<li><a href="files/r8168-8.043.02.tar.bz2" onclick="ga('send', 'event', this.href, 'click');">r8168-8.043.02.tar.bz2</a></li>
 		</ul>
 		<p>
 			These download links can be used from within a build script.<br />
-			It was used in the <a href="http://www.archlinux.org/packages/community/i686/r8168/" target="_blank">PKGBUILD</a> for <a href="http://archlinux.org" target="_target">ArchLinux</a>.
+			It was originally created for use in the <a href="http://www.archlinux.org/packages/community/i686/r8168/" target="_blank">PKGBUILD</a> for <a href="http://archlinux.org" target="_target">ArchLinux</a>.
 		</p>
 		<p>
 			Visit <a href="http://www.realtek.com.tw/" target="_blank">http://www.realtek.com.tw/</a> for support. Missing the latest version? <a href="https://github.com/bfanger/r8168dl">open a github issue</a>
