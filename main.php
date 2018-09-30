@@ -2,14 +2,14 @@
 <html>
 <head>
 	<title>Realtek r8168 linux driver</title>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 	<script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	ga('create', 'UA-7098662-5', 'auto');
+	ga('create', 'UA-7098662-5', { 'anonymize_ip': true });
 	ga('send', 'pageview');
 	</script>
 </head>
@@ -29,12 +29,12 @@
 		<br />
 
 
-		These files are downloaded from the <a href="http://www.realtek.com.tw/downloads/downloadsView.aspx?Langid=1&amp;PNid=13&amp;PFid=5&amp;Level=5&amp;Conn=4&amp;DownTypeID=3&amp;GetDown=false">Realtek website</a>
+		<p>These files are downloaded from the <a href="http://www.realtek.com.tw/downloads/downloadsView.aspx?Langid=1&amp;PNid=13&amp;PFid=5&amp;Level=5&amp;Conn=4&amp;DownTypeID=3&amp;GetDown=false">www.realtek.com.tw</a> website.</p>
 		<h2>Downloads</h2>
 		<ul class="list-unstyled">
-			<li><a href="http://www.realtek.com.tw/downloads/downloadsView.aspx?Langid=1&amp;PNid=13&amp;PFid=5&amp;Level=5&amp;Conn=4&amp;DownTypeID=3&amp;GetDown=false#2">Official download page <span class="label label-primary">Latest</span></a></li>
+			<li><a href="http://www.realtek.com.tw/downloads/downloadsView.aspx?Langid=1&amp;PNid=13&amp;PFid=5&amp;Level=5&amp;Conn=4&amp;DownTypeID=3&amp;GetDown=false#2">Official download page <span class="badge badge-primary">Latest</span></a></li>
+			<li><a href="files/r8168-8.046.00.tar.bz2" onclick="ga('send', 'event', this.href, 'click');">r8168-8.046.00.tar.bz2</a></li>
 			<li><a href="files/r8168-8.045.08.tar.bz2" onclick="ga('send', 'event', this.href, 'click');">r8168-8.045.08.tar.bz2</a></li>
-			<li><a href="files/r8168-8.043.02.tar.bz2" onclick="ga('send', 'event', this.href, 'click');">r8168-8.043.02.tar.bz2</a></li>
 		</ul>
 		<p>
 			These download links can be used from within a build script.<br />
