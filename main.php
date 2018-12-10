@@ -29,10 +29,10 @@
 		<br />
 
 
-		<p>These files are downloaded from the <a href="http://www.realtek.com.tw/downloads/downloadsView.aspx?Langid=1&amp;PNid=13&amp;PFid=5&amp;Level=5&amp;Conn=4&amp;DownTypeID=3&amp;GetDown=false">www.realtek.com.tw</a> website.</p>
+		<p>These files are downloaded from the <a href="https://www.realtek.com/en/downloads">www.realtek.com</a> website.</p>
 		<h2>Downloads</h2>
 		<ul class="list-unstyled">
-			<li><a href="http://www.realtek.com.tw/downloads/downloadsView.aspx?Langid=1&amp;PNid=13&amp;PFid=5&amp;Level=5&amp;Conn=4&amp;DownTypeID=3&amp;GetDown=false#2">Official download page <span class="badge badge-primary">Latest</span></a></li>
+			<li><a href="https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software">Official download page <span class="badge badge-primary">Latest</span></a></li>
 			<li><a href="files/r8168-8.046.00.tar.bz2" onclick="ga('send', 'event', this.href, 'click');">r8168-8.046.00.tar.bz2</a></li>
 			<li><a href="files/r8168-8.045.08.tar.bz2" onclick="ga('send', 'event', this.href, 'click');">r8168-8.045.08.tar.bz2</a></li>
 		</ul>
@@ -41,7 +41,7 @@
 			It was originally created for use in the <a href="http://www.archlinux.org/packages/community/i686/r8168/" target="_blank">PKGBUILD</a> for <a href="http://archlinux.org" target="_target">ArchLinux</a>.
 		</p>
 		<p>
-			Visit <a href="http://www.realtek.com.tw/" target="_blank">http://www.realtek.com.tw/</a> for support. Missing the latest version? <a href="https://github.com/bfanger/r8168dl">open a github issue</a>
+			Visit <a href="http://www.realtek.com/en/" target="_blank">http://www.realtek.com/</a> for support. Missing the latest version? <a href="https://github.com/bfanger/r8168dl">open a github issue</a>
 		</p>
 	</div>
 
